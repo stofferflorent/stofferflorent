@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Florent Stoffer
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science, IoT, Smart City
 - 🌱 I’m currently learning Python, R, SQL
-- 💞️ I’m looking to collaborate on smart city concept
+- 💞️ I’m looking to collaborate on Smart City concept
 - 📫 How to reach me ? Just drop me an email at stofferflorent@gmail.com
 
 <!---
